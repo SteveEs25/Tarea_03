@@ -1,0 +1,10 @@
+C:\Users\nsalf\Desktop\UEES\Arquitectura de Compu\GitHub\Tarea_03\Codigo1_CalcularVelocidad_CSharp\Codigo1_CalcularVelocidad_CSharp\bin\Debug\Codigo1_CalcularVelocidad_CSharp.exe.config
+C:\Users\nsalf\Desktop\UEES\Arquitectura de Compu\GitHub\Tarea_03\Codigo1_CalcularVelocidad_CSharp\Codigo1_CalcularVelocidad_CSharp\bin\Debug\Codigo1_CalcularVelocidad_CSharp.exe
+C:\Users\nsalf\Desktop\UEES\Arquitectura de Compu\GitHub\Tarea_03\Codigo1_CalcularVelocidad_CSharp\Codigo1_CalcularVelocidad_CSharp\bin\Debug\Codigo1_CalcularVelocidad_CSharp.pdb
+C:\Users\nsalf\Desktop\UEES\Arquitectura de Compu\GitHub\Tarea_03\Codigo1_CalcularVelocidad_CSharp\Codigo1_CalcularVelocidad_CSharp\obj\Debug\Codigo1_CalcularVelocidad_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\nsalf\Desktop\UEES\Arquitectura de Compu\GitHub\Tarea_03\Codigo1_CalcularVelocidad_CSharp\Codigo1_CalcularVelocidad_CSharp\obj\Debug\Codigo1_CalcularVelocidad_CSharp.Form1.resources
+C:\Users\nsalf\Desktop\UEES\Arquitectura de Compu\GitHub\Tarea_03\Codigo1_CalcularVelocidad_CSharp\Codigo1_CalcularVelocidad_CSharp\obj\Debug\Codigo1_CalcularVelocidad_CSharp.Properties.Resources.resources
+C:\Users\nsalf\Desktop\UEES\Arquitectura de Compu\GitHub\Tarea_03\Codigo1_CalcularVelocidad_CSharp\Codigo1_CalcularVelocidad_CSharp\obj\Debug\Codigo1_CalcularVelocidad_CSharp.csproj.GenerateResource.Cache
+C:\Users\nsalf\Desktop\UEES\Arquitectura de Compu\GitHub\Tarea_03\Codigo1_CalcularVelocidad_CSharp\Codigo1_CalcularVelocidad_CSharp\obj\Debug\Codigo1_CalcularVelocidad_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\nsalf\Desktop\UEES\Arquitectura de Compu\GitHub\Tarea_03\Codigo1_CalcularVelocidad_CSharp\Codigo1_CalcularVelocidad_CSharp\obj\Debug\Codigo1_CalcularVelocidad_CSharp.exe
+C:\Users\nsalf\Desktop\UEES\Arquitectura de Compu\GitHub\Tarea_03\Codigo1_CalcularVelocidad_CSharp\Codigo1_CalcularVelocidad_CSharp\obj\Debug\Codigo1_CalcularVelocidad_CSharp.pdb

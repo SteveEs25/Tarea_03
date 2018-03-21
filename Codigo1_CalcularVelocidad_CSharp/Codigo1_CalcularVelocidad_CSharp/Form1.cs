@@ -16,5 +16,17 @@ namespace Codigo1_CalcularVelocidad_CSharp
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            double dist, tiempo, veloci;
+
+            dist = Convert.ToDouble(txtDist.Text);
+            tiempo = Convert.ToDouble(txtTiempo.Text);
+
+            veloci = dist / tiempo;
+
+            MessageBox.Show("La Velocidad es de: " + veloci + " Km/h");
+        }
     }
 }
